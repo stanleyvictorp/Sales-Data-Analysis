@@ -30,8 +30,3 @@ For any queries or assistance required during the analysis, feel free to reach o
 
 We appreciate your dedication and commitment to this project.
 
-Best regards,
-
-Tony Sharma
-
-Atliq Hardwares

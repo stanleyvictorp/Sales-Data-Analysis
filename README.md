@@ -18,15 +18,4 @@ We are entrusting you with a critical project aimed at extracting actionable ins
 
 5. **Identify the Top 5 Countries in Terms of Net Sales for the Year 2021.**
 
-## Files and References:
-
-- Utilize the [`sales_market_report.xlsx`] file provided as a starting point.
-- Refer to existing measures and reports within the file as references for analysis.
-- Explore the [`report_templates.pdf`] provided for an understanding of the desired report format.
-
-## Feedback and Support:
-
-For any queries or assistance required during the analysis, feel free to reach out to [Stakeholder Name] at [email@example.com].
-
-We appreciate your dedication and commitment to this project.
 
